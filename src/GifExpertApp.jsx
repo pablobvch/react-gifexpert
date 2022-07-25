@@ -1,4 +1,3 @@
-// const apiKey = "ofhEFCPYbSF8QFnJiRBEYYXdyEJ0k0Aa"
 import { useState } from "react"
 import { AddCategory, GifGrid } from "./components"
 
